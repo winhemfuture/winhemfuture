@@ -5,7 +5,7 @@ I'm try to be good programmer.
 🔭 I’m currently working on Java and Javascript.
 🌱 
 
-I used PHP, Java, HTML, CSS, Twig, Javascript, Python, C and SQL.
+I used Javascript, Java, HTML, CSS, Twig, PHP, Python, C and SQL.
 
 I want to become a good backend programmer. Because I like fix the problems and solve the complex equations and push forward myself.
 
