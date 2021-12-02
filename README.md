@@ -2,8 +2,8 @@
 
 I'm try to be good programmer.
 
-🔭 I’m currently working on PHP and Python.
-🌱 Now I'm working on Php Symfony with the help of Patika.dev
+🔭 I’m currently working on Java and Javascript.
+🌱 
 
 I used PHP, Java, HTML, CSS, Twig, Javascript, Python, C and SQL.
 
@@ -18,7 +18,7 @@ My email adress: krmbasmaci@gmail.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PHP and Python
+- 🔭 I’m currently working on Java and Javascript.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
